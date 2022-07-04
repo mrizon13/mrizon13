@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrizon13
+- 👋 Hi, I’m Marielle.
 - 👀 I’m interested in learning more about web development!
 - 🌱 I’m currently learning through The Odin Project.
 - 💞️ I’m looking to collaborate on beginner-friendly projects that will challenge me!
